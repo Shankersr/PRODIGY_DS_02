@@ -4,4 +4,4 @@ Task: Perform data cleaning and exploratory data analysis, Explore the relations
 
 Dataset link:https://www.kaggle.com/c/titanic/data
 
-Programing language: Python
+Programming language: Python
